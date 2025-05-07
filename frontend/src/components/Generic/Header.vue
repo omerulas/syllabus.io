@@ -3,7 +3,5 @@
 </script>
 
 <template>
-  <main>
-    Hello World
-  </main>
+  <header>Header</header>
 </template>
